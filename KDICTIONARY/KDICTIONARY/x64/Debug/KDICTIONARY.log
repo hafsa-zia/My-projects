@@ -1,0 +1,10 @@
+﻿  Add.cpp
+  del.cpp
+  Dic.cpp
+  Search.cpp
+  Suggest.cpp
+  Up.cpp
+  .NETFramework,Version=v4.7.2.AssemblyAttributes.cpp
+  Generating Code...
+  Add.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  KDICTIONARY.vcxproj -> C:\Users\hafsa\Downloads\KDICTIONARY\KDICTIONARY\x64\Debug\KDICTIONARY.exe
